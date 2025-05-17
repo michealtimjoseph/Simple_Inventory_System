@@ -29,11 +29,12 @@ CleverMart is a Python-based graphical application designed to simulate a modern
 - **tkinter** for GUI
 - **csv** for data persistence
 - **datetime** for transaction timestamps
-
+---
+## Get yours here:
 git clone https://github.com/yourusername/CleverMart.git
-cd CleverMart
+cd Simple inventory system
 
-python ComprogFinale.py
+---
 
 ## 🧑‍💻 How to Use
 
