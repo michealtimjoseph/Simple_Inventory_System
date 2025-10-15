@@ -49,7 +49,7 @@ CleverMart is a Python-based graphical application designed to simulate a modern
 -  Point of Sale: View sales and transaction history
 
 ##  🗂️ File Structure
--  ComprogFinale.py       # Main application file
+-  [`Download test_clevermart.py`](test_clevermart.py)       # Main application file
 -  inventory.csv          # Inventory data (auto-generated)
 -  transactions.csv       # Transaction history (auto-generated)
 
