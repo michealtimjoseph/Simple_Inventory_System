@@ -48,10 +48,11 @@ CleverMart is a Python-based graphical application designed to simulate a modern
 -  Stock Monitoring: View and restock low inventory
 -  Point of Sale: View sales and transaction history
 
-##  🗂️ File Structure
--  [`Download test_clevermart.py`]([Downloadtest_clevermart.py](https://github.com/michealtimjoseph/Simple_Inventory_System/commit/5e4a1b33a4ce3435e76b170e457fdc06ee4a87a1))       # Main application file
--  inventory.csv          # Inventory data (auto-generated)
--  transactions.csv       # Transaction history (auto-generated)
+## 🗂️ File Structure
+- [Download test_clevermart.py](https://github.com/michealtimjoseph/Simple_Inventory_System/blob/main/test_clevermart.py)
+ — Main application file
+- `inventory.csv` — Inventory data (auto-generated)
+- `transactions.csv` — Transaction history (auto-generated)
 
 ##  💾 Data Persistence
 -  All inventory and transaction data are stored in CSV files.
