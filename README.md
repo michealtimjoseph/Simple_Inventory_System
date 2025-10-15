@@ -30,12 +30,6 @@ CleverMart is a Python-based graphical application designed to simulate a modern
 - **csv** for data persistence
 - **datetime** for transaction timestamps
 ---
-## 🛒 Get Yours Here
-python Download_test_clevermart.py
-git clone https://github.com/michealtimjoseph/CleverMart.git
-cd CleverMart
-
----
 
 ## 🧑‍💻 How to Use
 
