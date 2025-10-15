@@ -31,7 +31,7 @@ CleverMart is a Python-based graphical application designed to simulate a modern
 - **datetime** for transaction timestamps
 ---
 ## Get yours here:
-git clone https://github.com/yourusername/CleverMart.git
+git clone https://github.com/michealtimjoseph/CleverMart.git
 cd Simple inventory system
 
 ---
